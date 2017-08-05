@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bandung</string>
+    <string name="title_activity_bandung_tour_guide">BandungTourGuide</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_daftar_nama_tour_bandung">DaftarNamaTourBandung</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="exitBtn">Keluar</string>
+    <string name="title_activity_daftar">Daftar</string>
+    <string name="title_activity_button_shape">ButtonShape</string>
+    <string name="title_activity_seterus">Seterus</string>
+</resources>
